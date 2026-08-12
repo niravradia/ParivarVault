@@ -4,7 +4,6 @@
 # ──────────────────────────────────────────────
 
 # === CRITICAL: Configuration files with secrets ===
-vault-config.json
 config.json
 *.local.json
 
